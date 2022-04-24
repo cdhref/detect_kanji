@@ -1,0 +1,13 @@
+/Users/choi_daeho/Projects/translate-test/translate-test/bin/Debug/netcoreapp3.1/translate-test.deps.json
+/Users/choi_daeho/Projects/translate-test/translate-test/bin/Debug/netcoreapp3.1/translate-test.runtimeconfig.json
+/Users/choi_daeho/Projects/translate-test/translate-test/bin/Debug/netcoreapp3.1/translate-test.runtimeconfig.dev.json
+/Users/choi_daeho/Projects/translate-test/translate-test/bin/Debug/netcoreapp3.1/translate-test.dll
+/Users/choi_daeho/Projects/translate-test/translate-test/bin/Debug/netcoreapp3.1/translate-test.pdb
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.csproj.AssemblyReference.cache
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.AssemblyInfoInputs.cache
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.AssemblyInfo.cs
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.csproj.CoreCompileInputs.cache
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.dll
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.pdb
+/Users/choi_daeho/Projects/translate-test/translate-test/obj/Debug/netcoreapp3.1/translate-test.genruntimeconfig.cache
